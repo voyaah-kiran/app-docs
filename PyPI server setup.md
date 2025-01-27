@@ -25,7 +25,8 @@ pypi-server run -p <PORT_NUMBER> -P <htpasswd_file>
 ```
 This command starts the server on given <PORT_NUMBER>.
 Now, The server has to be running on http://localhost:<PORT_NUMBER>/
-![](@attachment/Clipboard_2025-01-23-14-08-18.png)
+![Clipboard_2025-01-23-14-08-18](https://github.com/user-attachments/assets/5eb62c2e-85e7-493f-b19c-f31414716e13)
+
 ## Create python package
 ### What is Python package?
 A Python package is a collection of Python modules that are bundled together in a directory hierarchy. A module is just a single file containing Python code, while a package can contain multiple modules, sub-packages, and other resources like data files.
